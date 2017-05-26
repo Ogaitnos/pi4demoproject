@@ -1,0 +1,4 @@
+  1085 WeatherNE_DayAvg.dat
+  1092 WeatherCEN_DayAvg.dat
+  3354 WeatherSE_DayAvg.dat
+  5531 total
